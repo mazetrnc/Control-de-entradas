@@ -93,5 +93,5 @@ coll = COLLECT(
     strip=False,
     upx=True,
     upx_exclude=[],
-    name='ControlEntradasPAE',
+    name='ControlEntradas',
 )
