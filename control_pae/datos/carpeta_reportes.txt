@@ -1,8 +1,0 @@
-# Escribe aquí (sin el #) la ruta completa de la carpeta donde quieres
-# que se guarden los reportes quincenales -- por ejemplo, tu carpeta
-# sincronizada de Google Drive o OneDrive. Si dejas este archivo vacío
-# o solo con comentarios, los reportes se guardan en la carpeta local
-# 'reportes', junto al programa.
-#
-# Ejemplo en Windows:
-# C:\Users\TuUsuario\Google Drive\Reportes PAE
