@@ -2,4 +2,4 @@ Los /datos de ambas carpetas (tanto en la que viene la versión con los módulos
 
 Para implementar el uso del programa debe leer las guías:
 
-Guia_operadores_actualizar_ids para entender lo básico para agregar y editar en general la información sobre usuario y entender el ciclo de funcionamiento de la aplicación, y Guia_implementacion_tecnica para profundizar en la estructura, configuración y soporte del sistema.
+Guia_operadores_actualizar_ids para entender lo básico para agregar y editar en general la información en cuanto a usuarios y entender el ciclo de funcionamiento de la aplicación, y Guia_implementacion_tecnica para profundizar en la estructura, configuración y soporte del sistema.
