@@ -1,0 +1,4 @@
+# Un correo de directivo por línea (sin el #). Se les manda una copia
+# del reporte automáticamente en cuanto se genera cada quincena.
+#
+# correo_directivo@gmail.com
